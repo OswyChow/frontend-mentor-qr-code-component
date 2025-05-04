@@ -48,6 +48,7 @@ body {
   padding: 1rem;
   padding-bottom: 2.5rem;
   border-radius: 1.25rem;
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 4.77%);
 }
 
 #qr-code {
